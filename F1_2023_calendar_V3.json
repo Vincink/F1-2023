@@ -1,0 +1,44 @@
+{
+	"2023" : {
+		"Bahrain" : {
+			"pratice1" : {
+				"date" : "12 JAN 2023", "heure" : "15:00"
+			},
+			"pratice2" : {
+				"date" : "12 JAN 2023", "heure" : "15:00"
+			},
+			"pratice3" : {
+				"date" : "12 JAN 2023", "heure" : "15:00"
+			},
+			"qualif" : {
+				"date" : "12 JAN 2023", "heure" : "15:00"
+			},
+			"sprint" : {
+				"date" : "12 JAN 2023", "heure" : "15:00"
+			},
+			"course" : {
+				"date" : "12 JAN 2023", "heure" : "15:00"
+			},
+		}
+		"Arabie Saoudite" : {
+			"pratice1" : {
+				"date" : "12 JAN 2023", "heure" : "15:00"
+			},
+			"pratice2" : {
+				"date" : "12 JAN 2023", "heure" : "15:00"
+			},
+			"pratice3" : {
+				"date" : "12 JAN 2023", "heure" : "15:00"
+			},
+			"qualif" : {
+				"date" : "12 JAN 2023", "heure" : "15:00"
+			},
+			"sprint" : {
+				"date" : "12 JAN 2023", "heure" : "15:00"
+			},
+			"course" : {
+				"date" : "12 JAN 2023", "heure" : "15:00"
+			},
+		}
+	}
+}
